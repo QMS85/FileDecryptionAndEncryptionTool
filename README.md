@@ -1,4 +1,4 @@
-# File Encryption & Decryption Tool
+# File Decryption & Encryption Tool
 
 A simple application for encrypting and decrypting files using password-based symmetric encryption (Fernet/AES).
 
