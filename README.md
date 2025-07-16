@@ -72,4 +72,4 @@ python app.py
 MIT License
 
 ## Author
-Your Name
+Jonathan Peters
