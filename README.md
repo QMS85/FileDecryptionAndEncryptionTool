@@ -2,7 +2,9 @@
 
 A simple application for encrypting and decrypting files using password-based symmetric encryption (Fernet/AES).
 
-Now available as both a **desktop GUI (PyQt5)** and a **web app (Streamlit)** for browser-based use.
+Now available as both a **desktop GUI (PyQt5)** and a **web app (Streamlit)** for browser-based use.  
+This project is available on Hackr.io
+[File Encrytion Tool](https://hackr.io/blog/how-to-create-a-python-file-encryption-tool?source=k8mepg2dMy)
 
 ## Features
 - **Encrypt any file** with a password
